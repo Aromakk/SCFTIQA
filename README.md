@@ -1,4 +1,4 @@
-# SCFTNet_IQA
+# SCTFNet_IQA
 ## Installation
 
 1) Clone this repository.
